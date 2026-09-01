@@ -1,0 +1,26 @@
+#SQL-> Structures Query Language
+
+DDL-> Data Definition Language
+DML-> Data Manupulation Language
+
+Database Schemas
+
+-> Rename/Alter
+-> Create
+-> Drop
+-> Truncate
+
+
+
+1> select= data retrieval , conditions
+2> insert= to create the instances/records
+3> update= e.g. to change address, do not add or delete only update possible
+4> delete= to delete the record e.g. a student is withdrawing its addimission from college
+5> merge
+6> call
+
+
+#revoke and grant -> for upper level transactions
+#key -> types -> primary, composite, foreign
+
+
